@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hallo,%20ich%20bin%20Linus!&fontSize=70" />
+  <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=200&width=2000&density=20&bannerText=Welcome!+I+am+Linus!" />
 </div>
 
 <div align="center">
@@ -23,18 +23,8 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Linus-Cl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linus-Cl&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linus-Cl&theme=tokyonight" />
 </div>
 
----
-
-### 🏆 Trophäen
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Linus-Cl&theme=tokyonight" />
-</div>

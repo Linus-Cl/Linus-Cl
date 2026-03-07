@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hallo,%20ich%20bin%20Linus!&fontSize=70" />
+</div>
 
-<!--
-**Linus-Cl/Linus-Cl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=App+Developer;Algorithm+Enthusiast;Python+Lover" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+- 🔭 Masters CS Student at **TU Braunschweig**
+- 🌱 Freelance **App-Developer**
+- 📫 Contact: **l.claussen@tu-braunschweig.de**
+
+---
+
+### 🛠 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,git,docker,swift" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Linus-Cl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linus-Cl&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linus-Cl&theme=tokyonight" />
+</div>
+
+---
+
+### 🏆 Trophäen
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Linus-Cl&theme=tokyonight" />
+</div>

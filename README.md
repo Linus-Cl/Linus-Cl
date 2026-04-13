@@ -1,7 +1,7 @@
 ![Developer Banner 4](https://ishan-rest.vercel.app/svg/banner/dev4/LinusClaussen)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=App+Developer;Algorithm+Enthusiast;Python+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=App+Developer;Algorithm+Enthusiast;Pythonist" alt="Typing SVG" />
 </div>
 
 ---

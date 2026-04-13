@@ -1,6 +1,4 @@
-<div align="center">
-  <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=200&width=2000&density=20&bannerText=Welcome!+I+am+Linus!" />
-</div>
+![Developer Banner 4](https://ishan-rest.vercel.app/svg/banner/dev4/LinusClaussen)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=App+Developer;Algorithm+Enthusiast;Python+Lover" alt="Typing SVG" />
